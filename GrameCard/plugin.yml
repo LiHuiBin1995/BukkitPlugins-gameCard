@@ -1,0 +1,10 @@
+name: GameCode
+main: com.sklm.lhb.Plugin.GameCode
+version: 4.3.5
+commands: 
+    cardcode: 
+        discription: this is a command
+        usage: §e/<cardcode>[验证码]用来激活游戏卡§e
+    vip: 
+        discription: show vip infomation
+        usage: §e/vip

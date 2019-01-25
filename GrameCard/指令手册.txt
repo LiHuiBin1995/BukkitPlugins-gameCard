@@ -1,0 +1,10 @@
+﻿/cardcode [验证码]                                   激活验证码
+/<cardcode>[充值卡面值][物品类型][生成验证码条数][执行指令]     生成验证码
+/vip                                               查询当前vip信息
+
+
+
+
+1000    point give @a 100000
+5000    point give @a 500000
+500     point give @a 50000
